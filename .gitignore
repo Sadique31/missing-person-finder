@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+deepface_repo/
+
+face_database/
+face_database_test/
+
+*.npz
+*.jpg
+*.jpeg
+*.png
+
+.env
+.DS_Store
