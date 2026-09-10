@@ -12,3 +12,7 @@ face_database_test/
 
 .env
 .DS_Store
+
+# Local SQLite databases
+missing_persons.db
+missing_persons_backup_before_dataset.db
